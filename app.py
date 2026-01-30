@@ -56,6 +56,7 @@ ONE_TIME_DEFAULTS = {
 # UI
 # -----------------------------
 st.title("💸 Korea Trip Budget (7 Nights)")
+st.markdown("**Developed by Robin Hwang**")
 st.caption("Everything is calculated and shown in **KRW first**. USD conversion is shown at the end.")
 
 with st.sidebar:
